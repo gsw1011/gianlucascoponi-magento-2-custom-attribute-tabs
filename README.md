@@ -6,7 +6,7 @@ Add custom product attribute tab
 
 Add custom product attribute tabs with condition if attrubute exist and hide tabs if attribute not found
 
-Upload app folder in you Magento Root
+Upload app folder in your Magento Root
 
 
 Edit \app\code\GianlucaScoponi\CustomAttributeTab\view\frontend\layout\catalog_product_view.xml and add edit blocks with your custom attribute and define the phtml files
